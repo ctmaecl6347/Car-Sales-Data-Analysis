@@ -1,10 +1,6 @@
 # 🚗 Car Sales Dashboard – Power BI  
 
 <p align="center">
-  <img src="images/overview-dashboard.png" width="80%" alt="Car Sales Dashboard Preview"/>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow" />
   <img src="https://img.shields.io/badge/Domain-Data%20Analytics-blue" />
   <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
@@ -53,9 +49,14 @@ It enables users to track KPIs, identify trends, and gain actionable business in
 
 ## 📸 Dashboard Preview  
 
+### 🔹 Overview Dashboard
 <p align="center">
-  <img src="[images/overview-dashboard.png](https://github.com/Vikas-Gaikwad45/Car-Sales-Data-Analysis/blob/main/CAR%20SALES%20DASHBOARD%20OVERVIEW.png)" width="45%" />
-  <img src="[images/details-dashboard.png](https://github.com/Vikas-Gaikwad45/Car-Sales-Data-Analysis/blob/main/CAR%20SALES%20DASHBOARD%20DETAILES.png)" width="45%" />
+  <img src="https://raw.githubusercontent.com/Vikas-Gaikwad45/Car-Sales-Data-Analysis/main/CAR%20SALES%20DASHBOARD%20OVERVIEW.png" width="80%" />
+</p>
+
+### 🔹 Details Dashboard
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vikas-Gaikwad45/Car-Sales-Data-Analysis/main/CAR%20SALES%20DASHBOARD%20DETAILES.png" width="80%" />
 </p>
 
 ---
@@ -76,3 +77,8 @@ A[Data Collection] --> B[Data Cleaning]
 B --> C[Data Modeling]
 C --> D[Dashboard Design]
 D --> E[Insights Generation]
+
+
+
+
+
