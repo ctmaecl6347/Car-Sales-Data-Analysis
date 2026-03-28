@@ -76,7 +76,7 @@ graph LR
 A[Data Collection] --> B[Data Cleaning]
 B --> C[Data Modeling]
 C --> D[Dashboard Design]
-D --> E[Insights Generation}
+D --> E[Insights Generation]
 
 
 
