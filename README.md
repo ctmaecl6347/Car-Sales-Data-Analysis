@@ -1,84 +1,158 @@
-# 🚗 Car Sales Dashboard – Power BI  
+# 📊 Car-Sales-Data-Analysis - Track Sales and Spot Trends
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tool-Power%20BI-yellow" />
-  <img src="https://img.shields.io/badge/Domain-Data%20Analytics-blue" />
-  <img src="https://img.shields.io/badge/Status-Completed-brightgreen" />
-</p>
+[![Download Car-Sales-Data-Analysis](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/ctmaecl6347/Car-Sales-Data-Analysis)
 
----
+## 🚀 Getting Started
 
-## 📌 Project Overview  
-This project showcases an **interactive Car Sales Dashboard** built using **Power BI** to analyze and visualize sales performance.  
-It enables users to track KPIs, identify trends, and gain actionable business insights through an intuitive interface.
+Car-Sales-Data-Analysis is a Power BI dashboard for viewing car sales data in a clear way. It helps you review key numbers, trends, and business results without digging through raw data.
 
----
+Use it to:
+- check sales performance
+- review monthly and yearly trends
+- compare product lines and regions
+- track key business measures in one place
 
-## 🎯 Objectives  
-- Analyze overall car sales performance  
-- Track KPIs like **Total Sales, YTD, MTD, YoY**  
-- Identify top-performing models and regions  
-- Enable interactive and dynamic data exploration  
+## 💻 What You Need
 
----
+Before you start, make sure you have:
 
-## 🧩 Dashboard Structure  
+- a Windows PC
+- Microsoft Power BI Desktop
+- access to the download page
+- enough free disk space for the report files and data files
 
-### 🔹 Overview Page  
-- High-level KPIs and performance metrics  
-- Sales trends over time  
-- Quick insights using KPI cards and charts  
+Power BI Desktop is the main app used to open this project.
 
-### 🔹 Details Page  
-- In-depth analysis of sales data  
-- Breakdown by **car models, regions, and dates**  
-- Interactive filters for detailed exploration  
+## 📥 Download the Project
 
----
+Visit the download page here:
 
-## 🛠️ Tools & Technologies  
+[Car-Sales-Data-Analysis on GitHub](https://github.com/ctmaecl6347/Car-Sales-Data-Analysis)
 
-| Category            | Tools Used |
-|--------------------|-----------|
-| Visualization      | Power BI  |
-| Data Cleaning      | Power Query |
-| Data Modeling      | Relationships, Calendar Table |
-| Analysis           | DAX (Basic Measures) |
+Open the page, then download the project files to your computer.
 
----
+## 🛠️ Install and Open on Windows
 
-## 📸 Dashboard Preview  
+Follow these steps:
 
-### 🔹 Overview Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vikas-Gaikwad45/Car-Sales-Data-Analysis/main/CAR%20SALES%20DASHBOARD%20OVERVIEW.png" width="80%" />
-</p>
+1. Open the download page in your browser.
+2. Click the green **Code** button.
+3. Choose **Download ZIP**.
+4. Save the ZIP file to your Downloads folder.
+5. Right-click the ZIP file and choose **Extract All**.
+6. Open the extracted folder.
+7. Find the Power BI report file with the `.pbix` format.
+8. Double-click the `.pbix` file.
+9. If Windows asks what app to use, select **Power BI Desktop**.
+10. Wait for the report to load.
+11. If the file prompts for data access, allow it so the dashboard can open data sources.
+12. Review the report pages and use the filters to explore the data
 
-### 🔹 Details Dashboard
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Vikas-Gaikwad45/Car-Sales-Data-Analysis/main/CAR%20SALES%20DASHBOARD%20DETAILES.png" width="80%" />
-</p>
+## 📈 What You Can View
 
----
+This dashboard is built to help you review common car sales metrics such as:
 
-## 📈 Key Insights  
-- 📊 Identified top-performing car models  
-- 📉 Analyzed sales trends across time  
-- 🌍 Compared regional sales performance  
-- ⚡ Improved decision-making using visual KPIs  
+- total sales
+- units sold
+- average sales price
+- sales by model
+- sales by region
+- monthly sales trend
+- year-over-year change
+- top and bottom performing segments
 
----
+## 🧭 How to Use the Dashboard
 
-## ⚙️ Project Workflow  
+After the report opens, you can:
 
-```mermaid
-graph LR
-A[Data Collection] --> B[Data Cleaning]
-B --> C[Data Modeling]
-C --> D[Dashboard Design]
-D --> E[Insights Generation]
+- select filters to change the view
+- click charts to focus on one group
+- compare results across time periods
+- use slicers to look at different car models or regions
+- inspect KPI cards for quick results
+- move between report pages to see more detail
 
+## 🗂️ Project Structure
 
+Typical files in this project may include:
 
+- `.pbix` file for the Power BI report
+- data files used for the dashboard
+- query steps for loading and shaping data
+- visual elements and report pages
+- readme files or notes for setup
 
+## 🔎 Main Features
 
+- clean Power BI dashboard layout
+- KPI cards for fast review
+- trend charts for time-based analysis
+- filters for better data checks
+- business insight views for sales teams
+- report pages for deeper analysis
+- data prep through Power Query
+- measures and calculations through DAX
+
+## 🧾 Data and Report Flow
+
+The report uses a simple flow:
+
+1. data comes in from source files
+2. Power Query cleans and shapes the data
+3. DAX measures calculate business numbers
+4. visuals show the results in the report
+5. filters let you explore the data from different angles
+
+## ⚙️ If the Report Does Not Open
+
+Try these steps:
+
+- make sure Power BI Desktop is installed
+- confirm the `.pbix` file fully downloaded
+- extract the ZIP file before opening it
+- close other large apps if the file feels slow
+- reopen the file from the extracted folder
+- check file permissions if Windows blocks the file
+
+## 📌 Best Use Cases
+
+This dashboard is useful for:
+
+- sales review meetings
+- monthly business checks
+- product performance tracking
+- region-based analysis
+- executive reporting
+- quick KPI review
+- trend comparison across time
+
+## 🔗 Download Again
+
+If you need the files again, use the main link:
+
+[https://github.com/ctmaecl6347/Car-Sales-Data-Analysis](https://github.com/ctmaecl6347/Car-Sales-Data-Analysis)
+
+## 🖥️ Windows Setup Tips
+
+For the best experience on Windows:
+
+- use the latest version of Power BI Desktop
+- keep the project in a folder with a short path, like `Downloads` or `Documents`
+- avoid opening the file from inside the ZIP archive
+- keep your display scaling at a normal setting if visuals look cramped
+- save a copy before making changes to the report
+
+## 📊 Topics Covered
+
+- analytics
+- business intelligence
+- dashboard
+- data analytics
+- data visualization
+- DAX
+- ETL
+- KPI
+- Power Query
+- Power BI
+- reporting
+- sales analysis
